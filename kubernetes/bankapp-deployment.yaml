@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
         - name: bankapp
-          image: hamza426/bankapp:6
+          image: hamza426/bankapp:7
           imagePullPolicy: Always
           ports:
             - containerPort: 8080
