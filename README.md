@@ -1,5 +1,5 @@
 ## End-to-End Bank Application Deployment using DevSecOps on AWS EKS
-- This is a multi-tier bank an application written in Java (Springboot).
+- This is a multi-tier bank application written in Java (Springboot).
 
 ![Login diagram](images/login.png)
 ![Transactions diagram](images/transactions.png)
@@ -13,7 +13,7 @@
 - Trivy (Filesystem Scan)
 - ArgoCD (CD)
 - AWS EKS (Kubernetes)
-- Helm (Monitoring using grafana and prometheus)
+- Helm (Monitoring using grafana & prometheus)
   
 ### Steps to deploy:
 
